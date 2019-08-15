@@ -1,0 +1,2 @@
+# PHP-SQL-Doesnt-Matter-Application
+This project consists of a platform which allows for the management of soccer teams in Canada. It allows users to list, add, modify and delete teams, players and coaches to the Roster of soccer teams in Canada. It was developed as a group project for my Web Based Scripting (PHP) course at Douglas College.It implements HTML5, CSS3, JavaScript, HTML Canvas, External APIs and PHP.Development team: João Wilke &amp; Alina Pak
